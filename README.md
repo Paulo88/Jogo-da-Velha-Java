@@ -14,6 +14,7 @@ Este é um jogo da velha simples feito em Java com um toque divertido: os person
 - O jogo termina quando um jogador conseguir alinhar 3 símbolos iguais (na horizontal, vertical ou diagonal) ou se o tabuleiro for preenchido sem que ninguém vença (empate).
 
 ## Exemplo Tabuleiro:
+
    0 1 2
 0  X|O|X
    -----
