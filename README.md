@@ -24,21 +24,20 @@ Este é um jogo da velha simples feito em Java com um toque divertido: os person
 
 ## Como rodar:
 1. Faça o clone deste repositório:
-```bash
-git clone https://github.com/seu-usuario/jogo-da-velha.git
-
-
+   ```bash
+   git clone https://github.com/seu-usuario/jogo-da-velha.git
+   
 2. Navegue até a pasta do projeto:
-```bash
-cd jogo-da-velha
+      ```bash
+   cd jogo-da-velha
 
 3. Compile o código:
-```bash
-javac JogoDaVelha.java
-
+      ```bash
+   javac JogoDaVelha.java
+      
 4. Execute o jogo:
-```bash
-java JogoDaVelha
-
+   ```bash
+   java JogoDaVelha
+   
 ## Divirta-se!
 Assim que um jogador vencer, uma mensagem especial será exibida, com R2D2 e C3PO parabenizando o ganhador!
