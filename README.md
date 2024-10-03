@@ -15,10 +15,10 @@ Este é um jogo da velha simples feito em Java com um toque divertido: os person
 
 ## Exemplo Tabuleiro:
 
-## T  0 1 2
-## 0  X|O|X
-## 1  O|X|O
-## 2  X|O| 
+-- T  0 1 2
+-- 0  X|O|X
+-- 1  O|X|O
+-- 2  X|O| 
 
 
 ## Como rodar:
