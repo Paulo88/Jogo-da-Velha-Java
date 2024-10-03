@@ -37,9 +37,11 @@ Este é um jogo da velha simples feito em Java com um toque divertido: os person
 4. Execute o jogo:
    ```bash
    java JogoDaVelha
+
+5. Siga as instruções no terminal para jogar.
    
 ## Divirta-se!
 Assim que um jogador vencer, uma mensagem especial será exibida, com R2D2 e C3PO parabenizando o ganhador!
 
 ## Autor
-Desenvolvido por Paulo Amorim(https://github.com/Paulo88).
+Desenvolvido por [Paulo Amorim](https://github.com/Paulo88).
