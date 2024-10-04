@@ -43,5 +43,16 @@ Este é um jogo da velha simples feito em Java com um toque divertido: os person
 ## Divirta-se!
 Assim que um jogador vencer, uma mensagem especial será exibida, com R2D2 e C3PO parabenizando o ganhador!
 
+## Licença
+- Este projeto está sob a nenhuma licença.
+
+## Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
+
+Nome: Paulo Amorim
+LinkedIn: [Paulo Amorim](https://www.linkedin.com/in/paulo-amorim88/)
+
+Agradeço por conferir meu projeto! Espero que você o ache útil e educativo.
+
 ## Autor
 Desenvolvido por [Paulo Amorim](https://github.com/Paulo88).
